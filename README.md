@@ -26,7 +26,7 @@ Each homework directory includes:
 * **Objective**: Measure and analyze the latency and throughput of a microprocessor system under real-time constraints.
 * **Contents**:
 
-  * `platform.v` – Top-level Verilog module
+  * `profiler.v` – Profiling Verilog module
   * `software/rt_app.c` – Real-time application running on the soft-core CPU
   * `report/RT_Analysis_Report.pdf` – Experimental results and discussion
 
