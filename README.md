@@ -44,7 +44,7 @@ Each homework directory includes:
 * **Objective**: Explore cache architectures and implement cache replacement policies.
 * **Contents**:
 
-  * `cache.sv` – SystemVerilog cache module
+  * `cache.v` – Verilog cache module
   * `policies/` – LRU, FIFO, and random policy implementations
   * `report/Cache_Opt_Report.pdf` – Cache performance analysis
 
